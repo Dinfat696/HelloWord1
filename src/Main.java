@@ -1,8 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Привет мир!");
-        System.out.println("Hi");
-        System.out.println("By");
-        System.out.println("Получилось?");
+        System.out.println("Hello word!");
+
     }
 }
