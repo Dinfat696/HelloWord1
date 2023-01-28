@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Привет мир!");
         System.out.println("Hi");
         System.out.println("By");
+        System.out.println("Получилось?");
     }
 }
